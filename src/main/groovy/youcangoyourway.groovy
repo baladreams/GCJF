@@ -1,3 +1,7 @@
+/*
+GCJ 2019 qualifications 
+https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/00000000000881da
+*/
 import java.util.Scanner
 
 br = new BufferedReader(new InputStreamReader(System.in)); 

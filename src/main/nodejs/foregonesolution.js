@@ -1,5 +1,8 @@
 var count =0;
-
+/**
+ * GCJ 2019 qualification round
+ * https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/0000000000088231
+ */
 exports.fourgone = function (line) {
     count++;
     if (count > 1) {
