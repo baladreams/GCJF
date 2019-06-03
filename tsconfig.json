@@ -1,6 +1,6 @@
 {
   "include": [
-    "src/main/typescript/**"
+    "src/main/typescript"
   ],
   "compilerOptions": {
     /* Basic Options */
